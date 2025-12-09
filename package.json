@@ -1,6 +1,7 @@
 {
   "name": "privy-ai-docs",
   "version": "1.0.0",
+  "type": "module",
   "description": "Documentation for PrivyAI",
   "scripts": {
     "docs:dev": "vitepress dev docs",
